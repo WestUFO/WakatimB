@@ -14,6 +14,7 @@ from .wakatime_blender.wakatime_downloader import (
 )
 
 
+
 bl_info = {
     "name": "WakaTime",
     "category": "Development",
